@@ -5,6 +5,7 @@ import Coin from './Coin';
 
 // Test changes
 // Test changes 2
+// Test changes 3
 
 function App() {
   const [coins, setCoins] = useState([])
