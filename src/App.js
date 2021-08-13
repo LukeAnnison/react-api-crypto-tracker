@@ -4,6 +4,7 @@ import './App.css';
 import Coin from './Coin';
 
 // Test changes
+// Test changes 2
 
 function App() {
   const [coins, setCoins] = useState([])
